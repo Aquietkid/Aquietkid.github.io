@@ -1,9 +1,8 @@
 ﻿# Aquietkid
 
-Hello there! I am Ali Imran, a _software engineering_ student. 
+Hello there! I am Ali Imran, a _software engineering_ student.
 
 ![pPOgIY4H_400x400](https://github.com/user-attachments/assets/44e13784-8870-4fa9-ad17-ec7863a2a449)
-
 
 I am passionate to create software that is user-friendly and computer-friendly. My academic journey revolves around how computers have shaped our world and our minds. 
 
@@ -11,7 +10,7 @@ I love finding innovative and creative solutions to problems that come my way. I
 
 # Get in touch
 
-✉️ [Email](aliimran20004@gmail.com) me at aliimran20004@gmail.com
+✉️ aliimran20004@gmail.com
 
 📞 +92-313-4760982
 
